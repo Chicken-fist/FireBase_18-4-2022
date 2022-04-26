@@ -75,10 +75,9 @@
 
     <ImageButton
         android:id="@+id/btnSigninInSignIn"
-        android:layout_width="313dp"
-        android:layout_height="50dp"
+        android:layout_width="306dp"
+        android:layout_height="57dp"
         android:layout_marginTop="16dp"
-        android:background="null"
         android:backgroundTint="#00FFFFFF"
         android:scaleType="fitXY"
         app:layout_constraintEnd_toEndOf="parent"
@@ -116,7 +115,6 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="68dp"
         android:layout_marginBottom="44dp"
-        android:background="null"
         android:backgroundTint="#FFFFFF"
         android:text="Do not have an account?"
         android:textColor="#FBFBFB"
